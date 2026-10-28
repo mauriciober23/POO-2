@@ -25,4 +25,7 @@ print("su edad es: ",edad)
 saldo=float(input("ingrese su saldo: "))
 print("su saldo es: ",saldo)
 
+print("hola mundo python")
+    
+
 
